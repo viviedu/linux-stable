@@ -43,7 +43,7 @@
 
 / {
 	aliases {
-		mmc0 = &usdhc2;
+		mmc0 = &usdhc3;
 		mmc1 = &usdhc1;
 		mxcfb0 = &mxcfb1;
 		mxcfb2 = &mxcfb2;
